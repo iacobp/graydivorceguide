@@ -10,13 +10,13 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "GrayDivorceGuide — Financial Planning for Midlife Divorce",
+  title: "GrayDivorceGuide — Your Next Chapter Starts With Knowing Your Numbers",
   description:
-    "Free tools and guides to protect your finances during a gray divorce. Asset checklists, settlement calculators, lawyer scripts, and budget planners for women 45+.",
+    "Free financial tools for women navigating divorce after 45. Asset checklists, settlement calculators, lawyer scripts, and budget planners. Private, free, no account needed.",
   openGraph: {
-    title: "GrayDivorceGuide — Financial Planning for Midlife Divorce",
+    title: "GrayDivorceGuide — You're Not Starting Over. You're Starting to Choose.",
     description:
-      "91% of divorcing midlife women get zero financial advice. We're changing that with free tools.",
+      "Free financial tools built for women in midlife divorce. Take control of your finances, ask the right questions, and design the life you actually want.",
     type: "website",
   },
 };
